@@ -1,0 +1,9 @@
+Check_up = 0
+Check_left = 0
+Check_down = 0
+Check_right = 0
+Check_I = 0
+Check_J = 0
+Check_K = 0 
+Check_D = 0
+Check_space = 0

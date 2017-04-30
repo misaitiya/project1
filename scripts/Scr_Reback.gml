@@ -1,0 +1,9 @@
+Re_Key_up = 'w';
+Re_Key_left = 'a';
+Re_Key_down = 's';
+Re_Key_right = 'd';
+Re_Key_I = 'i';
+Re_Key_J = 'j';
+Re_Key_K = 'k';
+Re_Key_L = 'l';
+Re_Key_space = 'space';
